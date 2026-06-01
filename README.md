@@ -1,2 +1,3 @@
 # html-portfolio
-A simple portfolio of my resume made using html language.
+<br>
+A simple multi-page portfolio of my resume made using HTML language.
